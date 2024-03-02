@@ -17,8 +17,8 @@ To get started with the Expense Tracker app, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/md61421/Expense-Tracker-App.git
+   cd Expense-Tracker-App-main
 2. **Install Dependencies::**
 
    ```bash
